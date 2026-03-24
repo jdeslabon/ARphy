@@ -1,3 +1,15 @@
+<p align="center">
+  <h1>🧭 ARphy — AR-Based Physics Learning App</h1>
+  <p><b>Learn Physics through Interactive Augmented Reality</b></p>
+
+  ![Unity](https://img.shields.io/badge/Engine-Unity-black)
+  ![Platform](https://img.shields.io/badge/Platform-Android-green)
+  ![AR](https://img.shields.io/badge/Technology-ARCore-blue)
+  ![Status](https://img.shields.io/badge/Version-1.0.0-orange)
+</p>
+
+---
+
 # ARphy — AR-Based Physics Learning App
 
 **Version:** 1.0.0
