@@ -153,7 +153,7 @@ Close background apps to free up memory and ensure the device meets minimum requ
 
 ## Version History
 
-**v1.0.0 (2025)**
+**v1.0.0 (2026)**
 - Initial release
 - Three Physics modules: Force, Projectile Motion, Vectors
 - AR Marker-Based simulations using QR codes and image targets
@@ -182,4 +182,4 @@ Close background apps to free up memory and ensure the device meets minimum requ
 
 ARphy was developed to demonstrate how Augmented Reality can be used as an educational tool for Physics. The project aims to make abstract physics concepts more visual, interactive, and easier to understand for students through hands-on AR simulations.
 
-© 2025 ARphy Team
+© 2026 ARphy Team
