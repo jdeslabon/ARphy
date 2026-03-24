@@ -1,7 +1,4 @@
-<div align="center">
-
-# 🔬 ARphy
-### AR-Based Physics Learning App
+# ARphy — AR-Based Physics Learning App
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
