@@ -1,4 +1,4 @@
-# ARphy — AR-Based Physics Learning App
+### ARphy — AR-Based Physics Learning App
 
 **Version:** 1.0.0
 **Engine:** Unity 2022.3.62f3 LTS
