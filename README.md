@@ -20,11 +20,6 @@ The app covers three Physics topics, each with its own module. Every module foll
 > ⚠️ **Note:** ARphy currently supports Android devices only.
 
 ---
-## User Flow
-
-<p aling="center">
-  <img src="gifs/app_flow.gif" width="550"/>
-</p>
 
 ## 🗂️ Modules
 
